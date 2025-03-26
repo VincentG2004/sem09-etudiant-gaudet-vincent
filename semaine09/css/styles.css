@@ -130,7 +130,9 @@ p::selection{
 /* Exercice 18 */
 
 
-
+h1 .char:last-child{
+    color: #640101;
+}
 
 
 
