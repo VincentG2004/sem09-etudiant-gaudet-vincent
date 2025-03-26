@@ -123,6 +123,9 @@ p::selection{
 
 /* Exercice 17 */
 
+.exercice17 input:checked + label {
+    color: red;
+}
 
 /* Exercice 18 */
 
